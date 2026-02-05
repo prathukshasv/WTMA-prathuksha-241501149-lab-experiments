@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Online Placement Information Portal</title>
+</head>
+
+<body bgcolor="#f5faff">
+
+<center>
+    <font size="6"><b>Online Placement Information Portal</b></font>
+    <br>
+    <font size="3">Helping students connect with opportunities</font>
+    <hr width="60%">
+</center>
+
+<br>
+
+<center>
+<font size="4">
+    <b>Welcome Students!</b>
+</font>
+<br><br>
+<font size="3">
+    This portal provides information about job openings, companies,
+    and placement activities.
+</font>
+</center>
+
+<br><br>
+
+<center>
+<font size="4"><b>Quick Navigation</b></font>
+<br><br>
+
+<form>
+    <font size="3">Select Section:</font>
+    <select>
+        <option>-- Choose --</option>
+        <option>Job Openings</option>
+        <option>Recruiting Companies</option>
+        <option>Internships</option>
+        <option>Placement Training</option>
+        <option>Contact Placement Cell</option>
+    </select>
+</form>
+</center>
+
+<br><br>
+
+<center>
+<font size="4"><b>Student Actions</b></font>
+<br><br>
+
+<form>
+    Username:
+    <input type="text">
+    <br><br>
+    Password:
+    <input type="password">
+    <br><br>
+    <input type="submit" value="Login">
+    <input type="reset" value="Clear">
+</form>
+</center>
+
+<br><br>
+
+<center>
+<font size="4"><b>Highlights</b></font>
+<br><br>
+
+<ul>
+    <li>Latest job updates</li>
+    <li>Top recruiting companies</li>
+    <li>Internship opportunities</li>
+    <li>Placement training details</li>
+</ul>
+</center>
+
+<br><br>
+
+<center>
+<font size="3">
+    <a href="#">About Us</a> |
+    <a href="#">Contact</a> |
+    <a href="#">Help</a>
+</font>
+</center>
+
+<br><br>
+
+<center>
+<font size="2">
+    © 2026 Online Placement Information Portal
+</font>
+</center>
+
+</body>
+</html>
