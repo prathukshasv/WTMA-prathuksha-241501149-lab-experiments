@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Online Placement Information Portal</title>
+</head>
+
+<body style="margin:0; font-family:Arial, Helvetica, sans-serif; background-color:#f2f6ff;">
+
+    <!-- Header -->
+    <div style="background-color:#1e3a8a; color:white; padding:20px; text-align:center;">
+        <h1 style="margin:0;">Online Placement Information Portal</h1>
+        <p style="margin:5px 0 0 0; font-size:16px;">
+            Helping students connect with opportunities
+        </p>
+    </div>
+
+    <!-- Image Section -->
+    <div style="text-align:center; margin:25px;">
+        <img src="placement.jpg" alt="Placement Portal Image" width="400" height="350">
+    </div>
+
+    <!-- Main Content -->
+    <div style="width:80%; margin:auto; background-color:white; padding:25px; border-radius:10px;">
+
+        <!-- Welcome -->
+        <h2 style="color:#1e3a8a; text-align:center;">Welcome Students!</h2>
+        <p style="text-align:center; font-size:15px;">
+            This portal provides information about job openings, recruiting companies,
+            internships, and placement training activities.
+        </p>
+
+        <hr>
+
+        <!-- Quick Navigation -->
+        <h3 style="color:#1e3a8a;">Quick Navigation</h3>
+        <p>
+            Select Section:
+            <select style="padding:5px;">
+                <option>-- Choose --</option>
+                <option>Job Openings</option>
+                <option>Recruiting Companies</option>
+                <option>Internships</option>
+                <option>Placement Training</option>
+                <option>Contact Placement Cell</option>
+            </select>
+        </p>
+
+        <hr>
+
+        <!-- Student Login -->
+        <h3 style="color:#1e3a8a;">Student Login</h3>
+
+        <table cellpadding="8">
+            <tr>
+                <td>Username:</td>
+                <td><input type="text"></td>
+            </tr>
+            <tr>
+                <td>Password:</td>
+                <td><input type="password"></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>
+                    <input type="submit" value="Login">
+                    <input type="reset" value="Clear">
+                </td>
+            </tr>
+        </table>
+
+        <hr>
+
+        <!-- Highlights -->
+        <h3 style="color:#1e3a8a;">Highlights</h3>
+        <ul>
+            <li>Latest job updates from top companies</li>
+            <li>Information on recruiting companies</li>
+            <li>Internship opportunities for students</li>
+            <li>Placement training and aptitude sessions</li>
+        </ul>
+
+        <!-- Companies Section -->
+        <h3 style="color:#1e3a8a;">Top Recruiting Companies</h3>
+        <p>
+            TCS, Infosys, Wipro, Accenture, Cognizant, Amazon, Deloitte, Capgemini
+        </p>
+
+        <!-- Footer Links -->
+        <div style="text-align:center; margin-top:20px;">
+            <a href="#">About Us</a> |
+            <a href="#">Contact</a> |
+            <a href="#">Help</a>
+        </div>
+
+    </div>
+
+    <!-- Footer -->
+    <div style="text-align:center; padding:15px; margin-top:20px; font-size:14px;">
+        © 2026 Online Placement Information Portal
+    </div>
+
+</body>
+</html>
